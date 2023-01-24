@@ -1,0 +1,1 @@
+# frontend-super-market-analysis
