@@ -1,11 +1,8 @@
 import axios from 'axios';
 
-console.log('llllll', import.meta.env.VITE_BASE_URL )
-
-
 
 const baseUrl = import.meta.env.VITE_BASE_URL
-console.log('sssss', baseUrl )
+
 
 // const baseUrl =  import.meta.env.REACT_APP_BASE_URL
 

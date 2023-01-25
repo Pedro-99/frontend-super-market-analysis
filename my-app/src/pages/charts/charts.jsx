@@ -9,7 +9,7 @@ export default function Charts() {
 
         <Layout>
             <div >
-                <h1 className='text-warning text-center m-5'>Super Market Charts analisys</h1>
+                <h1 className='text-warning text-center m-5'>Super Market Charts analysis</h1>
                 <br />
                 <div className='container-fluid'>
                     <div className="row">
