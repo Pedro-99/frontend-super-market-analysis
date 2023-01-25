@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const baseUrl = 'http://localhost:8000';
+
+
+const baseUrl = process.env.base_url 
 
 
 // upload csv file and save it into database
