@@ -1,0 +1,27 @@
+{
+  "name": "frontend-super-market-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedro-99/frontend-super-market-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedro-99/frontend-super-market-analysis/issues"
+  },
+  "homepage": "https://github.com/Pedro-99/frontend-super-market-analysis#readme",
+  "dependencies": {
+    "axios": "^1.2.3",
+    "bootstrap": "^5.2.3",
+    "chart.js": "^4.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-router-dom": "^6.7.0"
+  }
+}
