@@ -2,4 +2,4 @@
 
 here is a preview :
 
-https://fascinating-melba-107519.netlify.app/about
+https://fascinating-melba-107519.netlify.app
