@@ -1,8 +1,13 @@
 import axios from 'axios';
 
+console.log('llllll', import.meta.env.VITE_BASE_URL )
 
 
-const baseUrl = process.env.base_url 
+
+const baseUrl = import.meta.env.VITE_BASE_URL
+console.log('sssss', baseUrl )
+
+// const baseUrl =  import.meta.env.REACT_APP_BASE_URL
 
 
 // upload csv file and save it into database
